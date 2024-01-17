@@ -24,10 +24,10 @@ The project utilizes the pre-trained AlexNet model to classify images. It reads 
 2. Open the Script
 
 3. Run the Script in Matlab.
-![output](https://github.com/nambatibuf/Image-Classifier-using-AlexNet/assets/130098870/685f6dae-1d3f-4be4-b1ee-4a8207ee4170)
+
 
 ## Example Output
-
+![output](https://github.com/nambatibuf/Image-Classifier-using-AlexNet/assets/130098870/685f6dae-1d3f-4be4-b1ee-4a8207ee4170)
 ## Acknowledgments
 
 - [MathWorks MATLAB](https://www.mathworks.com/)
